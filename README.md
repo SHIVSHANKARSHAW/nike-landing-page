@@ -4,6 +4,8 @@
 This project is focused on developing and enhancing the a brand's digital presence. It includes various components such as web development, mobile app development, and digital marketing strategies.
 It is created using ReactJS & Tailwind CSS
 
+![image](https://github.com/user-attachments/assets/52c5257a-eb44-4387-bdaa-b1d34d3484bb)
+
 ## Installation
 To get started with the project, follow these steps:
 
@@ -26,27 +28,6 @@ To run the project locally, use the following command:
 npm run dev
 ```
 This will start the development server and you can view the project in your browser at `http://localhost:5173`.
-
-## Contributing
-We welcome contributions to the project. Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-  ```bash
-  git checkout -b feature-name
-  ```
-3. Make your changes and commit them:
-  ```bash
-  git commit -m "Description of changes"
-  ```
-4. Push to the branch:
-  ```bash
-  git push origin feature-name
-  ```
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 For any questions or feedback, please contact us at [mightguy460@gmail.com](mailto:mightguy460@gmail.com).
