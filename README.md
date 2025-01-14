@@ -1,5 +1,7 @@
 # Nike Landing Page
 
+Hosted On : https://nike-landing-page-trial.netlify.app
+
 ## Overview
 This project is focused on developing and enhancing the a brand's digital presence. It includes various components such as web development, mobile app development, and digital marketing strategies.
 It is created using ReactJS & Tailwind CSS
